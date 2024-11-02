@@ -3,6 +3,7 @@
 ###
 
 <p align="left">😁  Hey there!  I'm Robert Souza, a Full-Stack Developer always looking to level up. I'm a native Portuguese speaker (🇧🇷) and I also speak English (🇺🇸).<br><br>✨ Besides my tech skills, I'm a team player who's adaptable, a good communicator, and a creative problem-solver. I'm also responsible, resilient, and empathetic. <br><br>I'm currently finishing my Computer Engineering degree and I have certifications in Python, Endpoint Security, Linux Essentials, Data Science, and Cloud/AZW. Want to know more about me or my projects? Check out my LinkedIn or hit me up!  😜<br>Besides my tech skills, I'm a team player who's adaptable, a good communicator, and a creative problem-solver. I'm also responsible, resilient, and empathetic.<br><br>I'm currently finishing my Computer Engineering degree and I have certifications in Python, Endpoint Security, Linux Essentials, Data Science, and Cloud/AZW. Want to know more about me or my projects? Check out my LinkedIn or hit me up!</p>
+<br>
 
 ###
 
@@ -11,20 +12,37 @@
 ###
 
 <div align="left">
+  <h4>📧 russewelt@gmail.com<h4/>
   <a href="https://www.linkedin.com/in/robert-rsouza/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:russewelt@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/5591984107575" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
+<br>
 
 ###
 
 <h2 align="left">Full-stack Development</h2>
+
+###
+
+###
+
+<h3 align="left">🔧 Tools and environments</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40" alt="yarn logo"  />
+</div>
+
+###
 
 ###
 
@@ -35,7 +53,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
