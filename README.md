@@ -2,8 +2,22 @@
 
 ###
 
-<p align="left">😁  Hey there!  I'm Robert Souza, a Full-Stack Developer always looking to level up. I'm a native Portuguese speaker (🇧🇷) and I also speak English (🇺🇸).<br><br>✨ Besides my tech skills, I'm a team player who's adaptable, a good communicator, and a creative problem-solver. I'm also responsible, resilient, and empathetic. <br><br>I'm currently finishing my Computer Engineering degree and I have certifications in Python, Endpoint Security, Linux Essentials, Data Science, and Cloud/AZW. Want to know more about me or my projects? Check out my LinkedIn or hit me up!  😜<br>Besides my tech skills, I'm a team player who's adaptable, a good communicator, and a creative problem-solver. I'm also responsible, resilient, and empathetic.<br><br>I'm currently finishing my Computer Engineering degree and I have certifications in Python, Endpoint Security, Linux Essentials, Data Science, and Cloud/AZW. Want to know more about me or my projects? Check out my LinkedIn or hit me up!</p>
-<br>
+<div>
+  <p>😁 <strong>Hey there!</strong></p>
+  <p>
+    I'm Robert Souza, a <strong>Full-Stack Developer</strong> passionate about continuous learning and improvement. I'm a native <strong>Portuguese speaker</strong> (🇧🇷) and also fluent in <strong>English</strong> (🇺🇸).
+  </p>
+  <p>
+    ✨ Beyond my technical skills, I'm a <strong>team player</strong> who's adaptable, a clear communicator, and a creative problem-solver. I pride myself on being <strong>responsible, resilient, and empathetic</strong>, qualities that help me thrive in diverse work environments.
+  </p>
+  <p>
+    I'm currently <strong>completing my degree in Computer Engineering</strong> and hold certifications in <strong>Python, JavaScript, Node.js, Git, Endpoint Security, Linux Essentials, Data Science</strong>, and <strong>Cloud/AZW</strong>.
+  </p>
+  <p>
+    Want to know more about me or check out my projects? Feel free to connect on <strong>LinkedIn</strong> or drop me a message! 😜
+  </p>
+</div>
+
 
 ###
 
