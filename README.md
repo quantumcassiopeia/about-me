@@ -16,6 +16,9 @@
   <p>
     Want to know more about me or check out my projects? Feel free to connect on <strong>LinkedIn</strong> or drop me a message! 😜
   </p>
+  <p>
+    resume: https://quantumcassiopeia.github.io/pirateKing-nextjs-resume/
+  </p>
 </div>
 
 
