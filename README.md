@@ -11,9 +11,6 @@
     ✨ Beyond my technical skills, I'm a <strong>team player</strong> who's adaptable, a clear communicator, and a creative problem-solver. I pride myself on being <strong>responsible, resilient, and empathetic</strong>, qualities that help me thrive in diverse work environments.
   </p>
   <p>
-    I'm currently <strong>completing my degree in Computer Engineering</strong> and hold certifications in <strong>Python, JavaScript, Node.js, Git, Endpoint Security, Linux Essentials, Data Science</strong>, and <strong>Cloud/AZW</strong>.
-  </p>
-  <p>
     Want to know more about me or check out my projects? Feel free to connect on <strong>LinkedIn</strong> or drop me a message! 😜
   </p>
   <p>
